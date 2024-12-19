@@ -9,4 +9,4 @@
 - AI Computer VISION
 - IOT Robotic
 
-📬 ติดต่อฉันที่: workall350@gmail.com
+📬 Contact Me : workall350@gmail.com
