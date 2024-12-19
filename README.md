@@ -1,9 +1,9 @@
-# DevFFlex.github.io
-# สวัสดีครับ! ยินดีต้อนรับสู่โปรไฟล์ GitHub ของผม
+# Junior Programer
+# Hi! Welcom to My GitHub
 
-👋 สวัสดี! ผมชื่อ **Golfc Or DevFFlex** 👨‍💻
+👋 Hello! My Name **Golfc Or DevFFlex** 👨‍💻
 
-🧑‍💻 ฉันพัฒนาโปรเจคที่เกี่ยวกับ
+🧑‍💻 I develop projects related to
 - Web Application
 - Android Application
 - AI Computer VISION
