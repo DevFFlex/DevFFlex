@@ -4,9 +4,9 @@
 👋 Hello! My Name **Golfc Or DevFFlex** 👨‍💻
 
 🧑‍💻 I develop projects related to
+- AI Deep Learning
 - Web Application
 - Android Application
-- AI Computer VISION
 - IOT Robotic
 
 📬 Contact Me : workall350@gmail.com
