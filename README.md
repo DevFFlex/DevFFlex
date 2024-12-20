@@ -1,7 +1,7 @@
-# Junior Programer
+# DevFlex Programer
 # Hi! Welcom to My GitHub
 
-👋 Hello! My Name **Golfc Or DevFFlex** 👨‍💻
+👋 Hello! My Name **Golfic Or DevFFlex** 👨‍💻
 
 🧑‍💻 I develop projects related to
 - AI Deep Learning
